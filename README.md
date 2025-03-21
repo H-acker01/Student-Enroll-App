@@ -18,6 +18,6 @@ The app uses Django's built-in models to store student data, and provides a cust
 
 The app is built using the Django framework, and is written in Python 3. It also includes front-end technologies such as HTML, CSS, bootstrap 5, and JavaScript to provide a seamless user experience.
 
-If you have any questions or issues with the app, you can reach out to the maintainer at ashishgavit2009@gmail.com.
+
 
 Overall, this app is a powerful and flexible solution for managing student data using CRUD operations with AJAX. With its intuitive interface and customizable features, it's an ideal choice for schools, universities, or any organization that needs to manage student data.
